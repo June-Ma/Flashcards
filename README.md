@@ -1,6 +1,6 @@
 # Flashcards 📚
 
-A simple Python program for practising questions and learning through flashcards, can change the questions and answers in there. Have fun!
+A simple Python program for practising questions and learning through flashcards, can change the questions and answers in there. Have fun!！
 
 ## Features
 - Create your own flashcards
